@@ -1,0 +1,86 @@
+/*author:Ann Maria
+Date:02-jan-2020
+*/
+.banner-bg{
+	background-image:url(../img/academy-banner.jpg);
+	background-size:cover;
+	background-position:center;
+
+}
+.banner-bg h1{font-weight:bolder;
+}
+
+.forp p::before{
+content:"{";
+color:red;
+}
+
+.forp p::after{
+content:"}";
+color:red;
+}
+.margin_left{
+margin-left:-200px;
+
+}
+.forp{
+	background-color:rgba(0,0,0,.6);
+}
+
+
+
+@media(max-width:768px){
+.banner-bg h1{font-size:30px;
+font-weight:bolder;
+}
+
+.margin_left{margin-left:0px;
+padding-top:10px;
+
+}
+}
+
+
+@media(fit-width:990px){
+	.banner-bg h1{font-size:10px;
+	font-weight:bolder;
+	}
+	
+	.margin_left{margin-left:0px;
+	padding-top:10px;
+	
+	}
+	}
+	
+
+.text-center{
+	color:#252525;
+}
+.banner-bg1 {background-image:url(../img/modulebg.jpg);
+	
+	}
+.bg-black{
+	background-color:rgba(0,0,0,0.7);
+}
+.image-3{
+	background-image:url(../img/intrvwbg.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.image-4{
+	background-image:url(../img/testsbg.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.cont{
+	color:#181e22;
+}
+
+
+.image-3 div,.image-4 div{
+	background-color:rgba(6,8,11,0.7);
+}
+.vh 
+{
+	height:400px;
+}
