@@ -1,5 +1,5 @@
-/*author:Ann Maria
-Date:02-jan-2020
+/*author:Vishnu
+Date:07-March-2024
 */
 .banner-bg{
 	background-image:url(../img/academy-banner.jpg);
@@ -30,7 +30,7 @@ margin-left:-200px;
 
 
 @media(max-width:768px){
-.banner-bg h1{font-size:30px;
+.banner-bg h1{font-size:22px;
 font-weight:bolder;
 }
 
