@@ -1,4 +1,4 @@
-a/*author: Vishnu
+/*author: Vishnu
 Date:02-jan-2020
 */
 .banner-bg{
@@ -24,21 +24,17 @@ margin-left:-200px;
 
 }
 .forp{
-background-color:rgba(0,0,0,.6);
+	background-color:rgba(0,0,0,.6);
 }
 
 
 
 @media(max-width:768px){
-.banner-bg h1 {font-size:22px;
+.banner-bg h1{font-size:22px;
 font-weight:bolder;
-text-align: right;
-}
-.logo-rht{
-margin-left: 100px;
 }
 
-.margin_left{margin-left: 0px;
+.margin_left{margin-left:0px;
 padding-top:10px;
 
 }
@@ -77,7 +73,7 @@ padding-top:10px;
 	background-position:center;
 }
 .cont{
-	color:#221818;
+	color:#181e22;
 }
 
 
